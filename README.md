@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif)]
 <h1 align="center">Hi 👋, I'm Aakansha Rao</h1>
 <h3 align="center">A passionate explorer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/3Kua.gif">
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Clone of Whatsapp**
+- 🔭 I’m currently working on **Clone of Swiggy**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java ,C++,Flutter**
+- 💬 Ask me about **Java ,C++, Flutter**
 
 - 📫 How to reach me **aakansharao1111@gmail.com**
 
